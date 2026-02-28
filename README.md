@@ -16,8 +16,3 @@
 ### На Linux/Mac:
 ```bash
 gcc color.c image.c filters.c custom_filters.c image_craft.c -o image_craft -lm
-
-Автор
-Сумзина Ольга Владимировна
-Группа: ФПМ-1
-Университет: Высшая Школа Экономики
